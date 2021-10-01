@@ -1,0 +1,13 @@
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\UnitTestProject1.dll
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\UnitTestProject1.pdb
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\libColecciones.dll
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\libColecciones.pdb
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\obj\Debug\uTestVectorial.csprojAssemblyReference.cache
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\obj\Debug\uTestVectorial.csproj.CoreCompileInputs.cache
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\obj\Debug\uTestVectorial.csproj.CopyComplete
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\obj\Debug\UnitTestProject1.dll
+C:\Users\juan0\Documents\Drive Universidad\Academico\Informatica\Estructuras de datos 1\Laboratorio\uTestTADVectorial\obj\Debug\UnitTestProject1.pdb
